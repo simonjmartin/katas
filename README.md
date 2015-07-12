@@ -1,0 +1,2 @@
+# katas
+Place to practice 
